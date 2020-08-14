@@ -13,9 +13,8 @@ Both the sensors are attached to Raspberry Pi and uses python3 to execute.
 
 To get sensor values, we are using few libraries from adafruit.
 Adafruit has stopped using python 2 version and all its libraires can be executed only using python 3 version. 
-Therefore the Main code is rewritten to work for python3 version. 
 
-Please follow the steps to execute this code
+Please follow the steps to install and execute this code
 
 ## Step 1
 ### Update the RPi
