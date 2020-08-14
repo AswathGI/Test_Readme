@@ -17,6 +17,8 @@ Adafruit has stopped using python 2 version and all its libraires can be execute
 Please follow the steps to install and execute this code
 
 ## Step 1
+Go to terminal and enter the following commands
+
 ### Update the RPi
 ```shell
 $ sudo apt-get update
