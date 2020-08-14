@@ -1,5 +1,5 @@
 # Summary
-The above code is written for making the MonsterBorg robot move forward and stop after reaching particular location. 
+The above simple code is to make the MonsterBorg robot move forward and stop after reaching particular location. 
 The code is very simple and gives you a quick look to start GPS autonomous project.
 Here the MonsterBorg Robot has few different sensors integrated with RPi to make it move autonomously. 
 
